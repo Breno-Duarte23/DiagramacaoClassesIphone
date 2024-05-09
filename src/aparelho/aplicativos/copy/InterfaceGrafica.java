@@ -1,4 +1,4 @@
-package aparelho.aplicativos;
+package aparelho.aplicativos.copy;
 
 public class InterfaceGrafica implements ReprodutorMusical, NavegadorNaInternet, AparelhoTelefonico {
 
